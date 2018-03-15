@@ -1,4 +1,4 @@
-# vuehttp
+# Weather App
 
 > A Vue.js project
 
